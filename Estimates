@@ -1,3 +1,8 @@
 <!Doctype HTML>
 <head>Estimates</head>
+<form>
+First name: <input type="text" name="firstname"><br>
+Last name: <input type="text" name="lastname">
+Date: <input type="date" name="date">
+</form>
 </html>
